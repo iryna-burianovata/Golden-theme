@@ -1,0 +1,284 @@
+.container {
+
+	padding: 50px 230px;
+}
+
+
+.header-container {
+
+	padding-top: 60px;
+	padding-bottom: 40px;
+	text-align: center;
+	
+}
+
+.header-container h1{
+
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+
+.menu {
+
+	text-transform: uppercase;
+
+}
+
+.menu a {
+
+	color: #ffffff;
+
+}
+
+.welcome-text {
+
+	text-align: center;
+	padding-top: 200px;
+
+}
+
+.welcome-text h2 {
+
+	text-transform: capitalize;
+	color: white;
+
+}
+
+.welcome-text h1 {
+
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+
+}
+
+.home-container {
+
+	background-image: url(../img/home-back.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+
+}
+
+.services-container {
+
+	background-color: #ffffff;
+	height: 570px;
+}
+
+.service-element {
+
+	text-align: center;
+}
+
+.service-descr {
+
+	padding: 10px;
+	
+}
+
+.title {
+
+	font-weight: bold;
+	text-transform: capitalize;
+
+}
+
+.description {
+
+	color: #777777;
+
+}
+
+.portfolio-container {
+	
+	background-color: #f7f7f7;
+
+}
+
+.portfolio-element {
+
+	background-color: white;
+	padding: 25px;
+	text-align: center;
+
+}
+
+.about-container{
+
+	background-color: #ffffff;
+	height: 1660px;
+}
+
+
+.about-content-left {
+
+	height: 200px;
+	text-align: right;
+
+}
+
+.about-content-left h4{
+
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+
+.about-content-right {
+
+	height: 200px;
+	text-align: left;
+}
+
+.about-content-right h4{
+
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+.about-image {
+
+	padding: 0 50px;
+
+}
+
+.about-image-right {
+
+	text-align: right;
+	padding: 0 50px;
+}
+
+.image-center {
+
+	text-align: center;
+}
+
+
+.team-container{
+
+	background-color: #f7f7f7;
+	
+}
+
+.team-element {
+
+	text-align: center;
+}
+
+.text-team {
+
+	text-align: center;
+	padding: 50px;
+
+}
+
+.team-member-name {
+
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+
+.team-member-social {
+
+
+}
+
+.social-buttons li {
+
+	display: inline-block;
+}
+
+
+.social-buttons {
+
+	list-style: none;
+	margin: 10px;
+
+}
+
+.social-button {
+
+	display: inline-block;
+	border-radius: 50%;
+	background-color: #ffffff;
+	margin-right: 5px;
+	text-align: center;
+	border: 5px solid #222222;
+	color: #222222;
+
+}
+
+
+.contact-container{
+
+	height: 700px;
+	background-image: url(../img/contact-back.png);
+	background-position: right center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.contact-container h1 {
+
+	color: #ffffff;
+}
+
+.contact-container h5 {
+
+	color: #f7f7f7;
+
+}
+
+.contact-container textarea {
+	
+	height: 250px;
+
+}
+
+.contact-container input {
+	
+	height: 50px;
+
+}
+
+.button-holder {
+
+	text-align: center;
+
+}
+
+.button-holder .button-style {
+	
+	margin: 10px;
+	height: 65px;
+	width: 235px;
+	background-color: #fed136;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-radius: 5px;
+	padding: 1.5em;
+
+}
+
+.footer {
+
+	background-color: #ffffff;
+	text-align: center;
+	padding: 15px;
+}
+
+.company-social-buttons .social-button {
+
+	background-color: #222222;
+	color: #ffffff;
+
+}
